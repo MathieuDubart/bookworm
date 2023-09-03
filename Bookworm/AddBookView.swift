@@ -57,6 +57,13 @@ struct AddBookView: View {
                 }
             }
             .navigationTitle("Add a new book")
+            .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    Button("Cancel", role: .destructive) {
+                        dismiss()
+                    }
+                }
+            }
         }
     }
 }
