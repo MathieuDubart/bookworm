@@ -47,8 +47,6 @@
 		DB73B80F2AA33B0F0075951F = {
 			isa = PBXGroup;
 			children = (
-				DB73B8322AA35CC90075951F /* EmojiRatingView.swift */,
-				DB73B8302AA3583A0075951F /* RatingView.swift */,
 				DB73B81A2AA33B0F0075951F /* Bookworm */,
 				DB73B8192AA33B0F0075951F /* Products */,
 			);
@@ -65,6 +63,8 @@
 		DB73B81A2AA33B0F0075951F /* Bookworm */ = {
 			isa = PBXGroup;
 			children = (
+				DB73B8322AA35CC90075951F /* EmojiRatingView.swift */,
+				DB73B8302AA3583A0075951F /* RatingView.swift */,
 				DB73B81B2AA33B0F0075951F /* BookwormApp.swift */,
 				DB73B8292AA33BA30075951F /* DataController.swift */,
 				DB73B81D2AA33B0F0075951F /* ContentView.swift */,
